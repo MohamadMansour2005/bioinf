@@ -1,0 +1,4 @@
+id,name,mode,label
+1,cholera_1,water,danger
+18,Lactobacillus_acidophilus_1,safe,safe
+6,salmonella_1,water,danger

@@ -1,0 +1,4 @@
+id,name,mode,label
+16,influenza_1,unknown,danger
+9,listeria_1,food,danger
+2,Ecoli_1,water,danger
